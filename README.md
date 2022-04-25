@@ -1,3 +1,3 @@
 # bootstrap-theme-scroll-anime
 
-scroll animation using scroll reveal- html, css and javascript
+scroll animation using scroll reveal- HTML, CSS and JavaScript
